@@ -1,5 +1,5 @@
 document.write("Hola");
-
+//GENERACIÓN ALEATORIA
 //Random number: genera nºdecimales aleatorios entre [0 y 1).(El 1 no esta incluido, el 0 sí).
 // Math.random();
 
